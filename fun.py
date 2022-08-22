@@ -1,6 +1,10 @@
+from readline import get_history_length
+
+
 def f1():
     x=15
     print(x)
 x=12
 f1()
 rroi
+get_history_length
