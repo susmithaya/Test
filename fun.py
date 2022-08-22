@@ -6,5 +6,4 @@ def f1():
     print(x)
 x=12
 f1()
-rroi
-get_history_length
+
